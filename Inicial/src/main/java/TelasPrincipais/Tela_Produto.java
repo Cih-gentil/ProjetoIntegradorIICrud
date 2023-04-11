@@ -34,7 +34,7 @@ public class Tela_Produto extends javax.swing.JFrame {
     }
 
     /**
-     * Função que deixa as lables na cor preta
+     * Função que deixa as labels na cor preta
      * @param evt 
      */
     private void corLabel() {
@@ -919,7 +919,7 @@ public class Tela_Produto extends javax.swing.JFrame {
     }//GEN-LAST:event_txtQuantidadeKeyTyped
 
     /**
-     * Faz a conta do lucro obtido
+     * Método que realiza o calculo do lucro obtido
      * @param evt 
      */
     private void txtLucroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtLucroActionPerformed
@@ -937,7 +937,7 @@ public class Tela_Produto extends javax.swing.JFrame {
     }//GEN-LAST:event_txtLucroActionPerformed
 
     /**
-     * Faz a conta do lucro obtido
+     * Método que realiza o calculo do lucro obtido
      * @param evt 
      */
     private void txtLucroMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_txtLucroMouseExited
